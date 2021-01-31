@@ -22,6 +22,15 @@
 - [Windows Containers and Docker: 101](https://www.youtube.com/watch?v=066-9yw8-7c&ab_channel=Docker)
 - [Beyond \ - the path to Windows and Linux parity in Docker](https://www.youtube.com/watch?v=4ZY_4OeyJsw&ab_channel=Docker)
 - [Docker + Microsoft - Investing in the Future of your Applications](https://www.youtube.com/watch?v=QASAqcuuzgI&ab_channel=Docker)
+## 26. Getting a Shell Inside Containers: No Need for SSH
+- [Package Management Basics: apt, yum, dnf, pkg](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
+## 27. Docker Networks: Concepts for Private and Public Comms in Containers
+- [Format command and log output](https://docs.docker.com/config/formatting/)
+## 30. Docker Networks: DNS and How Containers Find Each Other
+- [How DNS Works](https://howdns.works/)
+- [Oracle Buys Dyn](https://www.oracle.com/corporate/acquisitions/dyn/)
+## 34. Assignment: DNS Round Robin Test
+- [Round-robin DNS](https://en.wikipedia.org/wiki/Round-robin_DNS)
 # Section 4
 # Section 5
 # Section 6
