@@ -32,6 +32,14 @@
 ## 34. Assignment: DNS Round Robin Test
 - [Round-robin DNS](https://en.wikipedia.org/wiki/Round-robin_DNS)
 # Section 4
+## 36. What's In An Image (and What Isn't)
+- [Docker Image Specification v1.0.0](https://github.com/moby/moby/blob/master/image/spec/v1.md)
+## 37. The Mighty Hub: Using Docker Hub Registry Images
+- [docker-library/official-images/](https://github.com/docker-library/official-images/tree/master/library)
+## 38. Images and Their Layers: Discover the Image Cache
+- [About storage drivers](https://docs.docker.com/storage/storagedriver/)
+## 40. Building Images: The Dockerfile Basics
+- [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 # Section 5
 # Section 6
 # Section 7
