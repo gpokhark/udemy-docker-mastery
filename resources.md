@@ -83,6 +83,15 @@ Also note if I or you were pinning versions, as we should, this wouldn't have su
 
 I've updated the course repo files to indicate this change, but if you've cloned the repo before February 18th, 2020, you will need to update or replace your clone.
 # Section 6
+## 55. Docker Compose and The docker-compose.yml File
+- [The YAML Format: Sample Generic YAML file](https://yaml.org/start.html)
+- [The YAML Format: Quick Reference](https://yaml.org/refcard.html)
+- [Compose file versions and upgrading](https://docs.docker.com/compose/compose-file/compose-versioning/)
+- [Docker Compose Release Downloads](https://github.com/docker/compose/releases)
+## 56. Trying Out Basic Compose Commands
+- [Only one host for production environment. What to use: docker-compose or single node swarm?](https://github.com/BretFisher/ama/issues/8)
+## 57. Assignment: Build a Compose File For a Multi-Container Service
+- [Compose file Reference](https://docs.docker.com/compose/compose-file/)
 # Section 7
 # Section 8
 # Section 9
